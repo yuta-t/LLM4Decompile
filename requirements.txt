@@ -2,5 +2,5 @@ tqdm
 loguru
 tqdm
 text_generation
-vllm==0.4.1
+vllm==0.4.3
 numpy==1.23.3
